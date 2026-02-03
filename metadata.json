@@ -1,0 +1,7 @@
+{
+  "name": "PintorIA - Pintor de Habitaciones con IA",
+  "description": "Sube una foto de tu habitación y visualiza nuevos colores de pared al instante usando IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
